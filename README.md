@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a final-year Computer Science student passionate about building practical software that solves real-world problems. I enjoy working across the full stack — from crafting clean UIs to designing backend systems.
+I'm a final-year Diploma IT student passionate about building practical software that solves real-world problems. I enjoy working across the full stack — from crafting clean UIs to designing backend systems.
 
-- 🎓 Currently in my **final year** of Computer Science
+- 🎓 Currently in my **final year** of Diploma IT
 - 🚀 Building a **Centralized ERP System** for multiple colleges under a single university
 - 🌱 Exploring scalable architecture and database design
 - 💬 Ask me about **web development, PHP backends, or Python scripting**
