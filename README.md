@@ -4,7 +4,7 @@
 
 **Final Year CS Student · Full Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/kakani-om-b03390387/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kakani-om-b03390387/)
 [![GitHub](https://img.shields.io/badge/GitHub-10--01--ak-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/10-01-ak)
 [![Profile Views](https://komarev.com/ghpvc/?username=10-01-ak&style=flat-square&color=6366f1)](https://github.com/10-01-ak)
 
@@ -20,7 +20,7 @@ I'm a final-year Diploma IT student passionate about building practical software
 - 🚀 Building a **Centralized ERP System** for multiple colleges under a single university
 - 🌱 Exploring scalable architecture and database design
 - 💬 Ask me about **web development, PHP backends, or Python scripting**
-- 📫 Reach me at **[LinkedIn](https://linkedin.com/in/your-linkedin-url)**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/kakani-om-b03390387/)**
 
 ---
 
